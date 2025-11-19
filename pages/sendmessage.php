@@ -32,9 +32,9 @@ if($name && $product){
     $result = curl_exec($ch); 
     curl_close($ch);
 
-    echo "✅ Message sent successfully!!!!";
+    echo "✅ Message sent successfully!!??";
 } else {
-    echo "⚠️ Please fill in all fields!!!!";
+    echo "⚠️ Please fill in all fields!!??";
 }
 ?>
 
